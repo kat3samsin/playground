@@ -2,7 +2,7 @@
   "name": "try-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kat3samsin.github.io/playground/try-react/",
+  "homepage": "https://kat3samsin.github.io/playground/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
