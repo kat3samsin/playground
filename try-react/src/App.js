@@ -27,7 +27,7 @@ class App extends Component {
             <p>Deezer - Fleetwood Mac</p>
             <Controls title="Previous"/>&nbsp;
             <Controls title="Play"/>&nbsp;
-            <Controls title="Pause"/>&nbsp;
+            <Controls title="Stop"/>&nbsp;
             <Controls title="Next"/>&nbsp;
         {/* </header> */}
     </div>
