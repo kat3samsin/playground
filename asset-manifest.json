@@ -1,14 +1,14 @@
 {
-  "main.css": "/playground/try-react/static/css/main.1c32488f.chunk.css",
-  "main.js": "/playground/try-react/static/js/main.17eb0a9b.chunk.js",
-  "main.js.map": "/playground/try-react/static/js/main.17eb0a9b.chunk.js.map",
-  "runtime~main.js": "/playground/try-react/static/js/runtime~main.0e48dd00.js",
-  "runtime~main.js.map": "/playground/try-react/static/js/runtime~main.0e48dd00.js.map",
-  "static/js/2.98dcc9dd.chunk.js": "/playground/try-react/static/js/2.98dcc9dd.chunk.js",
-  "static/js/2.98dcc9dd.chunk.js.map": "/playground/try-react/static/js/2.98dcc9dd.chunk.js.map",
-  "index.html": "/playground/try-react/index.html",
-  "precache-manifest.12744e37ffc14e5500559ed6acbeac91.js": "/playground/try-react/precache-manifest.12744e37ffc14e5500559ed6acbeac91.js",
-  "service-worker.js": "/playground/try-react/service-worker.js",
-  "static/css/main.1c32488f.chunk.css.map": "/playground/try-react/static/css/main.1c32488f.chunk.css.map",
-  "static/media/logo.svg": "/playground/try-react/static/media/logo.5d5d9eef.svg"
+  "main.css": "/playground/static/css/main.1c32488f.chunk.css",
+  "main.js": "/playground/static/js/main.ff3e50f7.chunk.js",
+  "main.js.map": "/playground/static/js/main.ff3e50f7.chunk.js.map",
+  "runtime~main.js": "/playground/static/js/runtime~main.c80ac52c.js",
+  "runtime~main.js.map": "/playground/static/js/runtime~main.c80ac52c.js.map",
+  "static/js/2.98dcc9dd.chunk.js": "/playground/static/js/2.98dcc9dd.chunk.js",
+  "static/js/2.98dcc9dd.chunk.js.map": "/playground/static/js/2.98dcc9dd.chunk.js.map",
+  "index.html": "/playground/index.html",
+  "precache-manifest.d6f6071d3649a482bce3378e6bf247ec.js": "/playground/precache-manifest.d6f6071d3649a482bce3378e6bf247ec.js",
+  "service-worker.js": "/playground/service-worker.js",
+  "static/css/main.1c32488f.chunk.css.map": "/playground/static/css/main.1c32488f.chunk.css.map",
+  "static/media/logo.svg": "/playground/static/media/logo.5d5d9eef.svg"
 }
