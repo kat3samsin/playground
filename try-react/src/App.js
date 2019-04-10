@@ -1,28 +1,35 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
-import FirstComponent from './FirstComponent'
+import Controls from './controls'
+import DZController from './dzcontroller'
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
+    <div className="App">
+
+        <DZController/>
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
+            {/* <img src={logo} className="App-logo" alt="logo" />
+            <p>
             Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
+            </p>
+            <a
             className="App-link"
             href="https://reactjs.org"
             target="_blank"
             rel="noopener noreferrer"
-          >
+            >
             Learn React
-          </a>
-          <FirstComponent displaytext="Some cool title"/>
+            </a> */}
+
+            <Controls title="Previous"/>&nbsp;
+            <Controls title="Play"/>&nbsp;
+            <Controls title="Pause"/>&nbsp;
+            <Controls title="Next"/>&nbsp;
         </header>
-      </div>
+    </div>
     );
   }
 }
